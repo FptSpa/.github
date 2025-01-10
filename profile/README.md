@@ -4,12 +4,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [Folder Structure](#folder-structure)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Project Overview
